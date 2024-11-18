@@ -1,0 +1,13 @@
+Assay ,Result,Number
+All,Positive,609
+All,False Negative,66
+qPCR ,Positive,130
+qPCR ,False Negative,5
+ddPCR ,Positive,118
+ddPCR ,False Negative,17
+CS,Positive,128
+CS,False Negative,7
+WV,Positive,116
+WV,False Negative,19
+RV,Positive,117
+RV,False Negative,18
